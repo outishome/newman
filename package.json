@@ -40,7 +40,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "async": "3.2.3",
-    "chardet": "1.4.0",
+    "chardet": "1.6.0",
     "cli-progress": "3.10.0",
     "cli-table3": "0.6.1",
     "colors": "1.4.0",
